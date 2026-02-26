@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-Apache%202.0-D22128?style=flat-square&logo=apache&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Archived-lightgrey?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Portfolio%20Project-6C3483?style=flat-square)
 ![Domain](https://img.shields.io/badge/Domain-RegTech-6C3483?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-Text%20Classification-0078D4?style=flat-square)
 ![Built For](https://img.shields.io/badge/Built%20for-CRC%20Colombia-FFCD00?style=flat-square&logoColor=black)
